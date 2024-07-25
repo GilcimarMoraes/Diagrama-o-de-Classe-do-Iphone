@@ -1,6 +1,6 @@
 # Diagrama-o-de-Classe-do-Iphone
 
-Este repositório contém a implementação de um diagrama UML que representa as funcionalidades do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. A implementação foi realizada em Java.
+Este repositório contém a implementação de um diagrama UML que representa as funcionalidades do iPhone como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. O diagrama faz parte do desafio proposto no curso Desenvolvimento java com IA na DIO.me.
 
 ## Estrutura do Projeto
 
