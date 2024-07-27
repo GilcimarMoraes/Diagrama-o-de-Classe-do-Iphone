@@ -14,3 +14,4 @@ Este repositório contém a implementação de um diagrama UML que representa as
 ## Diagrama UML
 
 O diagrama UML que representa as classes e interfaces do projeto é mostrado abaixo:
+https://github.com/GilcimarMoraes/Diagrama-o-de-Classe-do-Iphone/blob/main/Diagrama%C3%A7ao%20de%20classe%20do%20Iphone.png
